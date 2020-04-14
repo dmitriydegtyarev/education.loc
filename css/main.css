@@ -782,3 +782,15 @@ footer {
     min-height: 320px;
     z-index: 5;
 }
+
+.slider_single_item{
+    position: center;
+    width: auto;
+    }
+
+.jquery-accordion{
+    position: relative;
+    margin:100px 0 50px;
+    z-index: 2;
+    display: block;
+}
